@@ -1,4 +1,4 @@
-x=2.0
+x=9.0
 s=1.0
 from numpy import sqrt
 for k in range(10):
